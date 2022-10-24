@@ -3,4 +3,4 @@
 
 运行截图
 
-[![沙漠中的岩石图片](./img/tem.jpg "Shiprock")](https://github.com/BeijingTiger666/livegame/blob/main/README.md)
+[![运行截图](./img/tem.png "Shiprock")](https://github.com/BeijingTiger666/livegame/blob/main/README.md)
