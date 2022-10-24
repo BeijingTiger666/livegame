@@ -3,3 +3,4 @@
 
 运行截图
 
+[![沙漠中的岩石图片](./img/tem.jpg "Shiprock")](https://markdown.com.cn)
